@@ -1,6 +1,6 @@
 import random
 
-# to define a function with the list of elements in it
+# to define a function with the game in it
 
 def main():
     """Start a periodic table guessing game."""
